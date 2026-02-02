@@ -1,2 +1,2 @@
 # JiraProject
-Backend API endpoints: /items (temporary)
+Backend API endpoints: /tasks (GET, POST, PUT, DELETE)
